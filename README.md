@@ -17,7 +17,7 @@ Apaixonada por tecnologia, sempre aprendendo e em evolução constante.
 - Curso técnico em T.I
 - Organização, proatividade e responsabilidade 
 -  Prontidão para se reinventar e se adaptar
-### 🔧 Tecnologias que ja utilizei 
+### 🔧 Tecnologias que ja utilizei/ em aprendizado 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
